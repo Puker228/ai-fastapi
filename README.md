@@ -1,6 +1,6 @@
 # ai-fastapi
 
-basic fastapi application using llm
+Basic [fastapi](https://fastapi.tiangolo.com/) application using local LLM
 
 ## python deps
 
